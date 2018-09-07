@@ -5,6 +5,8 @@
 
 `GitHub WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/gnusocial-clients). Please, send your merge requests there.
 
+> Any GNU Social user who wishes to take over this repository and maintain it is very welcome to do so.
+
 ## Smartphone
 
 ### Android
