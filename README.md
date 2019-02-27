@@ -11,6 +11,14 @@
 
 ### Android
 
+##### Fedilab
+
+<img src="./screenshot-fedilab.png" alt="app screenshot" width="auto" height="150px">
+
+- Developer: [Thomas](https://mastodon.social/@tom79)
+- Open Source/FLOSS:  ✔
+- Download: [F-Droid](https://f-droid.org/app/fr.gouv.etalab.mastodon) or [Google Play](https://play.google.com/store/apps/details?id=fr.gouv.etalab.mastodon)
+
 ##### AndStatus
 
 <img src="./screenshot-andstatus.png" alt="app screenshot" width="auto" height="150px">
